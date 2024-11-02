@@ -1,0 +1,13 @@
+<html>
+  <head>
+    <title>Unblocked Games</title>
+  </head>
+  <body>
+    <h1>Unblocked Games</h1>
+    <ul>
+      <li><a href="game1/index.html">Game 1</a></li>
+      <li><a href="game2/index.html">Game 2</a></li>
+      <!-- Add more games as needed -->
+    </ul>
+  </body>
+</html>
